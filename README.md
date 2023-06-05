@@ -70,7 +70,7 @@ go run main.go test -- -v       # runs all the tests for current day with verbos
 
 ## TODO
 
-- [ ] Add other DSA
+- [x] Add other DSA
   - [x] ArrayList
   - [x] BFSGraphList
   - [x] BFSGraphMatrix
